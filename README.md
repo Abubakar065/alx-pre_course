@@ -12,5 +12,5 @@
     <li>Carryout the Repo-session task</li>
     <li>Carryout the Coding Fury Road task</li>
     <li>Carryout the "Collaboration is the base of a Company" task</li>
-    <li>And lastly carryout the collaboration up to date task</li>
+    <li>Carryout the collaboration up to date task</li>
 </ol>
